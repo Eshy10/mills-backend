@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Mill A",
+      "latitude": 12.34,
+      "longitude": 56.78,
+      "quantity": 100,
+      "price": 500,
+      "transactions": 5,
+      "lastTransactionDate": "2024-11-01T12:00:00Z"
+    },
+    {
+      "name": "Mill B",
+      "latitude": 23.45,
+      "longitude": 67.89,
+      "quantity": 150,
+      "price": 600,
+      "transactions": 8,
+      "lastTransactionDate": "2024-11-02T14:00:00Z"
+    }
+  ]
